@@ -1,0 +1,73 @@
+h1 {
+	text-align:center;
+	background:#FF69B4;
+	font-family: 'Lobster', cursive;
+}
+
+header {
+    background:#FF69B4;
+    padding: 60px 0;
+}
+
+.pricípal {
+    width: 700px;
+	margin: auto 0;
+}
+
+nav {
+    width: 650px;
+	position: absolute;
+	top: 100px;
+	right: 0;
+	text-decoration: none;
+}
+
+nav li {
+    display: inline;
+	margin: 0 0 0 25px;
+}
+
+nav a {
+    text-transform: uppercase;
+	color: #000000;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+    color: darksalmon;
+    text-decoration: underline;
+}
+
+.bijous{
+	 padding: 60px 0;
+     font-size:30px;
+	text-align:center;
+}
+
+.imagembijuteria{
+	width: 70%;
+	margin: 0 0 0 250px;
+}
+
+#frete {
+	font-size:50px;
+	text-align:center;
+}
+
+.semijoias {
+	width: 70%;
+    margin: 0 0 0 250px;
+}
+
+footer {
+    text-align: center;
+    background: #FF69B4;
+    padding:20px 0;
+}
+
+.copyright {
+    color:  #000000 ;
+    background: 13 px ;
+    margin: 20px 0 0 ;
+}
